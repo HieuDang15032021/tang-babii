@@ -1,5 +1,5 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Tặng Mây
+## _Một điều nho nhỏ muốn nói với Mây_
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
@@ -8,7 +8,7 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Hí Mây!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
