@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Mong được tặng',
     reply: 'Không có món quà gì ngoài tình cảm siu to khổng lồ này đâu :))',
     mess: 'Nói chung là sinh nhật nhưng dịch nên không làm được gì nhiều',
-    messDesc: 'Nên là happy birth day Vo Phuong Thanh nhó',
+    messDesc: 'Nên là Happy Birthday Vo Phuong Thanh nhó',
     btnAccept: 'Okk m oi <3',
     messLink: 'http://preview.pagedemo.me/613ef5438d36860013abb015'
 }
