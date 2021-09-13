@@ -1,10 +1,10 @@
 const CONFIG = {
     introTitle: 'Hí Mây!',
     introDesc: `Hôm nay là ngày đặc biệt 
-    Ngày 22 tháng 9
-    Của 1 thành viên trong bộ tộc
+    ngày 22 tháng 9
+    của 1 thành viên trong bộ tộc
     Mixigaming á`,
-    btnIntro: 'Là ngày gì nhỉ',
+    btnIntro: 'Là ngày gì nhỉ?',
     title: 'Hôm này là ngày sinh nhật của Mây 😙',
     desc: 'Một member lâu năm của bộ tộc Mixigaming ',
     btnYes: 'Đúng rồi đó :3',
