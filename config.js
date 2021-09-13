@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Bae à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Dạ :3',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không ạ :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu cáo nhiều nhiều ',
-    messDesc: 'Tối nay 7h anh qua ship nước cho babii nhó.',
-    btnAccept: 'Dạ okk lnnn <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100008476714562'
+    introTitle: 'Hí Mây!',
+    introDesc: `Hôm nay là ngày đặc biệt 
+    Ngày 22 tháng 9
+    Của 1 thành viên trong bộ tộc
+    Mixigaming á`,
+    btnIntro: 'Là ngày gì nhỉ',
+    title: 'Phải chăng hôm này là ngày sinh nhật của Mây 😙',
+    desc: 'Một member lâu năm của bộ tộc Mixigaming ',
+    btnYes: 'Đúng rồi đó :3',
+    btnNo: 'Không phải m oi :3',
+    question:'Sinh nhật này Mây có muốn được tặng quà gì không? ',
+    btnReply: 'Mong được tặng',
+    reply: 'Không có món quà gì ngoài tình cảm siu to khổng lồ này đâu :))',
+    mess: 'Nói chung là sinh nhật nhưng dịch nên không làm được gì nhiều',
+    messDesc: 'Nên là happy birth day Vo Phuong Thanh nhó',
+    btnAccept: 'Okk m oi <3',
+    messLink: 'http://preview.pagedemo.me/613ef5438d36860013abb015'
 }
