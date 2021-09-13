@@ -5,7 +5,7 @@ const CONFIG = {
     Của 1 thành viên trong bộ tộc
     Mixigaming á`,
     btnIntro: 'Là ngày gì nhỉ',
-    title: 'Phải chăng hôm này là ngày sinh nhật của Mây 😙',
+    title: 'Hôm này là ngày sinh nhật của Mây 😙',
     desc: 'Một member lâu năm của bộ tộc Mixigaming ',
     btnYes: 'Đúng rồi đó :3',
     btnNo: 'Không phải m oi :3',
