@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không phải m oi :3',
     question:'Sinh nhật này Mây có muốn được tặng quà gì không? ',
     btnReply: 'Mong được tặng',
-    reply: 'Không có món quà gì ngoài tình cảm siu to khổng lồ này đâu :))',
+    reply: 'Làm gì có món quà nào ngoài tình cảm siu to khổng lồ này :))',
     mess: 'Nói chung là sinh nhật nhưng dịch nên không làm được gì nhiều',
     messDesc: 'Nên là Happy Birthday Vo Phuong Thanh nhó',
     btnAccept: 'Okk m oi <3',
