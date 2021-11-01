@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hí Mây!',
+    introTitle: 'Hí bae!',
     introDesc: `Hôm nay là ngày đặc biệt 
-    ngày 22 tháng 9
-    của 1 thành viên trong bộ tộc
-    Mixigaming á`,
+    ngày 6 tháng 11 ó,
     btnIntro: 'Là ngày gì nhỉ?',
-    title: 'Hôm này là ngày sinh nhật của Mây 😙',
-    desc: 'Một member lâu năm của bộ tộc Mixigaming ',
+    title: 'Hôm này là ngày sinh nhật của Thí Lê nè 😙',
+    desc: 'Một người đã luôn bên cạnh mình, chờ đợi mình trong những thời gian gần đây ',
     btnYes: 'Đúng rồi đó :3',
-    btnNo: 'Không phải m oi :3',
-    question:'Sinh nhật này Mây có muốn được tặng quà gì không? ',
-    btnReply: 'Mong được tặng',
+    btnNo: 'Không phải nha :3',
+    question:'Sinh nhật này Thí có muốn được tặng quà gì không? ',
+    btnReply: 'Tất nhiên là không rồi',
     reply: 'Làm gì có món quà nào ngoài tình cảm siu to khổng lồ này :))',
     mess: 'Nói chung là sinh nhật nhưng dịch nên không làm được gì nhiều',
-    messDesc: 'Nên là Happy Birthday Vo Phuong Thanh nhó',
-    btnAccept: 'Okk m oi <3',
-    messLink: 'http://preview.pagedemo.me/613ef5438d36860013abb015'
+    messDesc: 'Nên là Happy Birthday Lê Ngọc Anh Thúy nhó',
+    btnAccept: 'Vâng <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100053539472501'
 }
