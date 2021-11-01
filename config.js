@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hí bae!',
-    introDesc: ` Hôm nay là ngày đặc biệt 
-    ngày 6 tháng 11 ó,
+    introDesc: ` 'Hôm nay là ngày đặc biệt 
+    ngày 6 tháng 11 ó' ,
     btnIntro: 'Là ngày gì nhỉ?',
     title: 'Hôm này là ngày sinh nhật của Thí Lê nè 😙',
     desc: 'Một người đã luôn bên cạnh mình, chờ đợi mình trong những thời gian gần đây ',
