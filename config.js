@@ -1,17 +1,19 @@
 const CONFIG = {
-    introTitle: 'Hí bae!',
-    introDesc: 'Hôm nay là ngày đặc biệt 
-    ngày 6 tháng 11 ó' ,
-    btnIntro: 'Là ngày gì nhỉ?',
-    title: 'Hôm này là ngày sinh nhật của Thí Lê nè 😙',
-    desc: 'Một người đã luôn bên cạnh mình, chờ đợi mình trong những thời gian gần đây ',
-    btnYes: 'Đúng rồi đó :3',
-    btnNo: 'Không phải nha :3',
-    question:'Sinh nhật này Thí có muốn được tặng quà gì không? ',
-    btnReply: 'Tất nhiên là không rồi',
-    reply: 'Làm gì có món quà nào ngoài tình cảm siu to khổng lồ này :))',
-    mess: 'Nói chung là sinh nhật nhưng dịch nên không làm được gì nhiều',
-    messDesc: 'Nên là Happy Birthday Lê Ngọc Anh Thúy nhó',
-    btnAccept: 'Vâng <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100053539472501'
+        introTitle: 'Hí bae à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải hôm nay là ngày sinh nhật của Thí Lê đúng hong ta 😙',
+    desc: 'Chính xác là ngày 6 tháng 11 năm 2003 nà ',
+    btnYes: 'Đúng đúng đúng',
+    btnNo: 'Không, sai cmnr :3',
+    question:'Sinh nhật này Thí có muốn quà gì hăm??',
+    btnReply: 'Ghi vào đây nà',
+    reply: 'Không có gì ngoài tình cảm chân thành này cả :33',
+    mess: 'Híu biết mà 🥰. Yêu Thí nhiều nhiều 😘😘',
+    messDesc: 'Quà sn thì lên SG mình tính tiếp nhoa',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100053539472501' 
 }
