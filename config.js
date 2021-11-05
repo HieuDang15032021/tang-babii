@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    btnIntro: 'Ỏoooo',
     title: 'Phải hôm nay là ngày sinh nhật của Thí Lê đúng hong ta 😙',
     desc: 'Chính xác là ngày 6 tháng 11 năm 2003 nà ',
     btnYes: 'Đúng đúng đúng',
